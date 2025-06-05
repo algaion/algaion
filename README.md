@@ -1,4 +1,5 @@
-## Hi there 👋
+![Untitled1683_20250604180807](https://github.com/user-attachments/assets/e645d530-a5fc-4394-963b-ff97f28ef0eb)
+## kevin spencer irl
 
 <!--
 **algaion/algaion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
