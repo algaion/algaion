@@ -1,4 +1,4 @@
-![d3fb55dd5fc7c733d460d03ee0db316f](https://github.com/user-attachments/assets/131fa3dd-be1d-44ec-bab6-74053c8efbb0)
+
 <!--
 **algaion/algaion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
